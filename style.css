@@ -7,6 +7,10 @@ body {
     --main-color: white;
   }
   
+  .collapse {
+    margin-left: 2rem;
+
+  }
   .bg {
     text-align: center;
     padding: 10px;

@@ -7,5 +7,9 @@ html, body, section {
     min-height: 100%;
 }
 body{
-    background-color: rgba(0, 255, 255, 0.397);
+    background-color: rgba(0, 0, 0, 0.397);
+}
+
+.nav-item{
+    margin-right: 8rem;
 }
